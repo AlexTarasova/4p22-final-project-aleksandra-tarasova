@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/4p22-final-project-aleksandra-tarasova/static/css/main.073c9b0a.css",
-    "main.js": "/4p22-final-project-aleksandra-tarasova/static/js/main.2ca0f0b5.js",
-    "static/js/787.d850ea91.chunk.js": "/4p22-final-project-aleksandra-tarasova/static/js/787.d850ea91.chunk.js",
-    "static/media/logo.svg": "/4p22-final-project-aleksandra-tarasova/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/4p22-final-project-aleksandra-tarasova/static/css/main.d667ba7d.css",
+    "main.js": "/4p22-final-project-aleksandra-tarasova/static/js/main.c03a4c22.js",
+    "static/media/empty-cart.png": "/4p22-final-project-aleksandra-tarasova/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/bikeLogo.jpg": "/4p22-final-project-aleksandra-tarasova/static/media/bikeLogo.f4157dc6433c2ec73a2b.jpg",
+    "static/media/search_icon.svg": "/4p22-final-project-aleksandra-tarasova/static/media/search_icon.e8e86095c21029aece0de7c5a96bdc19.svg",
     "index.html": "/4p22-final-project-aleksandra-tarasova/index.html",
-    "main.073c9b0a.css.map": "/4p22-final-project-aleksandra-tarasova/static/css/main.073c9b0a.css.map",
-    "main.2ca0f0b5.js.map": "/4p22-final-project-aleksandra-tarasova/static/js/main.2ca0f0b5.js.map",
-    "787.d850ea91.chunk.js.map": "/4p22-final-project-aleksandra-tarasova/static/js/787.d850ea91.chunk.js.map"
+    "main.d667ba7d.css.map": "/4p22-final-project-aleksandra-tarasova/static/css/main.d667ba7d.css.map",
+    "main.c03a4c22.js.map": "/4p22-final-project-aleksandra-tarasova/static/js/main.c03a4c22.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2ca0f0b5.js"
+    "static/css/main.d667ba7d.css",
+    "static/js/main.c03a4c22.js"
   ]
 }
